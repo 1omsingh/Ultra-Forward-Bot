@@ -1,8 +1,8 @@
 # Jishu Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @diligentsoul678
+# Backup Channel @diligentsoul678
+# Developer @diligentsoul678
 
 
 
@@ -18,13 +18,13 @@ from pyrogram import Client, filters, enums, __version__ as pyrogram_version
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
 
 main_buttons = [[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/Madflix_Bots'),
-        InlineKeyboardButton('💬 Support', url='https://t.me/MadflixBots_Support')
+        InlineKeyboardButton('📢 Updates', url='https://t.me/hdhhdyu_om'),
+        InlineKeyboardButton('💬 Support', url='https://t.me/hdhhdyu_om')
         ],[
         InlineKeyboardButton('🛠️ Help', callback_data='help'),
         InlineKeyboardButton('🩷 About', callback_data='about')
         ],[
-        InlineKeyboardButton('🧑‍💻 Developer 🧑‍💻', url='https://t.me/CallAdminRobot')
+        InlineKeyboardButton('🧑‍💻 Developer 🧑‍💻', url='https://t.me/Diligentsoul678')
         ]]
 
 
@@ -133,4 +133,4 @@ async def status(bot, query):
 # Don't Remove Credit 🥺
 # Telegram Channel @Madflix_Bots
 # Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Developer @diligentsoul678
